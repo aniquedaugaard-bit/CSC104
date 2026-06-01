@@ -1,0 +1,20 @@
+/* Starting my CSS for my webpage design */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkcyan;
+    color: whitesmoke;
+}
+img {
+    width: 300px;
+}
+h2 {
+    color: burlywood;
+    text-align: left;
+    font-size: 28px;
+    text-decoration: underline;
+}
+footer {
+    color: black;
+    text-align: center;
+    font-size: smaller;
+}
